@@ -18,9 +18,15 @@ An end-to-end data analytics project that explores and visualizes the global COV
 
 ## 📊 Sample Visuals
 
-- `india_daily_confirmed.png`: Line chart of confirmed cases in India
-- `india_bar_confirmed.png`: Bar chart of daily confirmed cases in India
-- `top_countries.png`: Top 10 countries by confirmed cases (horizontal bar chart)
+### 🟠 Daily Confirmed Cases in India
+![India Daily Confirmed](plots/india_daily_confirmed.png)
+
+### 🟣 India Daily Bar Graph
+![India Daily Bar Chart](plots/india_bar_confirmed.png)
+
+### 🔴 Top 10 Countries by Confirmed Cases
+![Top Countries](plots/top_countries.png)
+
 
 All plots are saved in the `plots/` directory.
 
@@ -59,4 +65,5 @@ All plots are saved in the `plots/` directory.
 - **Version Control** using Git & GitHub
 
 ---
+
 
